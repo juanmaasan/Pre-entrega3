@@ -1,0 +1,13 @@
+/*abstracts*/
+@import './abstracts/animaciones';
+
+/*base*/
+@import './base/resets';
+@import './base/base';
+
+/*layout*/
+@import './layout/header';
+
+/*components*/
+@import './components/detail'; 
+ 
